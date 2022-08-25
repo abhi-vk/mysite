@@ -48,14 +48,14 @@ hr{
     width: 200px;
     height: 130px;
     position: absolute;
-    right: 250px;
+    right: 150px;
     top: 50px;
 }
 .bottomcloud{
     width: 200px;
     height: 100px;
     position: absolute;
-    left: 350px;
+    left: 15px;
     bottom: 350px
     
 }
